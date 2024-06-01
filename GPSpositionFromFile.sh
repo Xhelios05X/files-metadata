@@ -2,7 +2,7 @@
 # files returns a gps position in file metadata
 
 # usage:
-# GPSpositionFromFile.sh filename
+# ./GPSpositionFromFile.sh filename
 
 # function returns a gps position of file
 # $1 - filename
